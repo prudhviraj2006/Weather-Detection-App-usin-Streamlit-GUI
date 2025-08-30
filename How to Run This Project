@@ -1,0 +1,14 @@
+How to Run This Project
+1.Save the file
+Download or copy GUI weather.py to any folder on your laptop.
+
+2.Open terminal / command prompt in that folder
+
+3.Install required libraries
+pip install streamlit requests
+
+4.Run the Streamlit app
+streamlit run "GUI weather.py"
+
+5.Open in browser
+Go to the link shown in the terminal (usually http://localhost:8501).
